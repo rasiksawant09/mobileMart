@@ -1,0 +1,30 @@
+.rowMargin{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.cardm{
+    text-align: center;
+}
+
+.cardc{
+    background-color:black;
+    color:white;
+    padding:2%;
+}
+
+.coloured{
+    background-color: Black;
+    padding-bottom: 2%;
+}
+
+.imgEdit{
+    width: 50%;
+    height: 50%;
+    
+}
+
+.imgEdit1{
+    width: 30%;
+    height:5%;
+}
