@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mobileMart/static/css/main.b55f3572.css",
+    "main.js": "/mobileMart/static/js/main.3b3005e4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/mobileMart/static/js/787.28cb0dcd.chunk.js",
+    "static/media/carousel4.jpg": "/mobileMart/static/media/carousel4.84c86a32538bf6aeec3b.jpg",
+    "static/media/carousel3.jpg": "/mobileMart/static/media/carousel3.52b0f4a10798ec985d3d.jpg",
+    "static/media/carousel2.jpg": "/mobileMart/static/media/carousel2.c873af32689d7f0797dd.jpg",
+    "static/media/carousel1.jpg": "/mobileMart/static/media/carousel1.e82adbefa6e2251c3974.jpg",
+    "static/media/note-11t.webp": "/mobileMart/static/media/note-11t.b51e3877a8b772749dae.webp",
+    "static/media/note-11.webp": "/mobileMart/static/media/note-11.53408f11015d198874a8.webp",
+    "static/media/redmi-9a-sport.webp": "/mobileMart/static/media/redmi-9a-sport.6ed1781160802b91803d.webp",
+    "static/media/realme 9i.webp": "/mobileMart/static/media/realme 9i.49b363e9cc532c01a0c0.webp",
+    "static/media/apple-iphone-se.webp": "/mobileMart/static/media/apple-iphone-se.fc93a563de9be6692b35.webp",
+    "static/media/realme C35.webp": "/mobileMart/static/media/realme C35.2d43fc4dde8ee55b48d8.webp",
+    "static/media/realme95G.webp": "/mobileMart/static/media/realme95G.515037f482ca4c06cc71.webp",
+    "static/media/apple-iphone-11.webp": "/mobileMart/static/media/apple-iphone-11.efdc60748de01355c81f.webp",
+    "static/media/iphone-13.webp": "/mobileMart/static/media/iphone-13.efd423fda71de099f642.webp",
+    "index.html": "/mobileMart/index.html",
+    "main.b55f3572.css.map": "/mobileMart/static/css/main.b55f3572.css.map",
+    "main.3b3005e4.js.map": "/mobileMart/static/js/main.3b3005e4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/mobileMart/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b55f3572.css",
+    "static/js/main.3b3005e4.js"
+  ]
+}
