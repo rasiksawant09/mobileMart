@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To view the project the link for the same is as follows: (https://rasiksawant09.github.io/mobileMart/)
+
 ## Available Scripts
 
 In the project directory, you can run:
